@@ -1,5 +1,5 @@
 # ComfyUI-Krea-Harness
-The Krea Harness Alpha, made for Comfyui, is ready.Unleash your creativity with the moodboard!
+The Krea Harness Alpha for ComfyUI is currently under development. Get ready to unleash your creativity with moodboards!
 
 ITMS-PLPT Framework (Inference-Time Model Steering with Prompt-Layer Post-Training)
 A specialized inference-time model steering and prompt-layer post-training framework developed by me.
