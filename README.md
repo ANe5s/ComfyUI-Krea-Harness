@@ -11,6 +11,7 @@ A specialized inference-time model steering and prompt-layer post-training frame
 ![Krea 2 result 00111](./Picture/Krea2_v257_v124_rb_00111_.png)
 
 #Krea harness-moodboards and edit I2I, Same seed same prompt
+![Krea 2 result 357](./Picture/Krea2_identity_moodboard_verified_21x9_00375_.png)
 ![Krea 2 result 022](./Picture/Krea2_HR_002_Analog_Desert_Surrealism_00001_.png)
 ![Krea 2 result 046](./Picture/Krea2_HR_046_Cinematic_Urban_Nostalgia_Overcast_Beige_00001_.png)
 ![Krea 2 result 061](./Picture/Krea2_HR_061_Dynamic_Fisheye_Nostalgia_Golden_Hour_Grain_00001_.png)
