@@ -5,16 +5,16 @@ ITMS-PLPT Framework (Inference-Time Model Steering with Prompt-Layer Post-Traini
 A specialized inference-time model steering and prompt-layer post-training framework developed by me.
 
 ## Generated Results
-#Krea harness-moodboards T2I
+###Krea harness-moodboards T2I
 ![Krea 2 result 00107](./Picture/Krea2_v257_v124_rb_00107_.png)
 ![Krea 2 result 00111](./Picture/Krea2_v257_v124_rb_00111_.png)
 
-#Krea harness-moodboards T2I+ M87 Lora
+###Krea harness-moodboards T2I+ M87 Lora
 Prompt：一个性冷淡风格，纯欲面容的18岁貌美古风女性，她微笑看向镜头，手带起衣袖在风中飘动，写真，镜头低角度
 ![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00526_.png) 0.8
 ![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00524_.png) 1.0
 
-#Krea harness-moodboards and edit I2I, Same seed same prompt
+###Krea harness-moodboards and edit I2I, Same seed same prompt
 ![Krea 2 result 357](./Picture/Krea2_identity_moodboard_verified_21x9_00375_.png)
 ![Krea 2 result 022](./Picture/Krea2_HR_002_Analog_Desert_Surrealism_00001_.png)
 ![Krea 2 result 046](./Picture/Krea2_HR_046_Cinematic_Urban_Nostalgia_Overcast_Beige_00001_.png)
