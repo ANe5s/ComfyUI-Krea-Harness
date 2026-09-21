@@ -8,12 +8,12 @@ A specialized inference-time model steering and prompt-layer post-training frame
 
 **Krea harness-moodboards T2I（Cinematic Nocturnal Noir）+ M87 Lora** 
 Prompt：一个性冷淡风格，纯欲面容的18岁貌美古风女性，她微笑看向镜头，手带起衣袖在风中飘动，写真，镜头低角度
-![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00526_.png) 0.8
-![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00524_.png) 1.0
+![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00526_.png) Lora 0.8
+![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00524_.png) Lora 1.0
 
 Prompt：一个性冷淡风格，纯欲面容的18岁貌美古风女性，她微笑看向镜头，手带起衣袖在风中飘动，写真，镜头低角度
 
 生成为四个象限的4宫格相同图片比例的分镜表，同一人物，在连贯空间中，不同角度，四个象限有大全景描述大世界的镜头、全景包含全身人物的镜头、中景镜头、特写镜头叙述连贯的故事
-![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00564_.png) 0.8
+![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00564_.png) Lora 0.8
 
 
