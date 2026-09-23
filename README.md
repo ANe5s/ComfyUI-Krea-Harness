@@ -7,6 +7,7 @@ A specialized inference-time model steering and prompt-layer post-training frame
 ## Generated Results
 
 **Krea harness-moodboards T2I（Cinematic Nocturnal Noir）+ M87 Lora** 
+
 Prompt：一个性冷淡风格，纯欲面容的18岁貌美古风女性，她微笑看向镜头，手带起衣袖在风中飘动，写真，镜头低角度
 ![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00526_.png) Lora 0.8
 ![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00524_.png) Lora 1.0
