@@ -6,9 +6,9 @@ A specialized inference-time model steering and prompt-layer post-training frame
 
 ## Generated Results
 
-**Krea harness-moodboards T2I（Cinematic Nocturnal Noir）+ M87 Lora** 
+**Krea harness-moodboards T2I+ M87 Lora** 
 
-Prompt：一个性冷淡风格，纯欲面容的18岁貌美古风女性，她微笑看向镜头，手带起衣袖在风中飘动，写真，镜头低角度
+Prompt：一个性冷淡风格，纯欲面容的18岁貌美古风女性，她微笑看向镜头，手带起衣袖在风中飘动，写真，镜头低角度 （Cinematic Nocturnal Noir）
 ![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00526_.png) Lora 0.8
 ![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00524_.png) Lora 1.0
 
@@ -16,6 +16,9 @@ Prompt：一个性冷淡风格，纯欲面容的18岁貌美古风女剑仙舞剑
 ![Krea 2 result 00111](./Picture/ComfyUI_00215_.png)
 ![Krea 2 result 00111](./Picture/ComfyUI_00224_.png)
 
+Prompt：一个亚裔高级脸女性骑着摩托在赛博朋克风都市穿行，她在疯癫的大笑，正面微侧高角度俯视角色，定格在她正在超过左侧汽车的瞬间，身后远方车辆爆炸，厚涂漫画风格，复杂高密度细节笔触，鱼眼超广角 （Dynamic Ink Fantasy）
+![Krea 2 result 00111](./Picture/ComfyUI_00232_.png) 
+0.8 M87 Lora+ 1.0 realism_engine_krea2_v3.1 Lora
 
 Prompt：一个性冷淡风格，纯欲面容的18岁貌美古风女性，她微笑看向镜头，手带起衣袖在风中飘动，写真，镜头低角度
 
