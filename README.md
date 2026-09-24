@@ -1,3 +1,4 @@
+![Krea 2 result 00111](./Picture/ComfyUI_00251_1_.png)
 # ComfyUI-Krea-Harness
 The Krea Harness Alpha for ComfyUI is currently under development. Get ready to unleash your creativity with moodboards!
 
