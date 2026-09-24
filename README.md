@@ -21,7 +21,6 @@ Prompt：一个性冷淡风格，纯欲面容的18岁貌美古风女性，她微
 
 生成为四个象限的4宫格相同图片比例的分镜表，同一人物，在连贯空间中，不同角度，四个象限有大全景描述大世界的镜头、全景包含全身人物的镜头、中景镜头、特写镜头叙述连贯的故事
 ![Krea 2 result 00111](./Picture/Krea2_identity_moodboard_verified_21x9_00564_.png) Lora 0.8 (2K)
-![Krea 2 result 00111](./Picture/ComfyUI_00026_.png) Lora 0.8 4K（upscale×2）
 
 **Krea harness-moodboards T2I（4 different styles）+ M87 Lora + realism_engine_krea2_v3.1 Lora** 
 
